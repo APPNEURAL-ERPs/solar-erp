@@ -1,3 +1,3 @@
-# Intellistra-Solar
+# solar-erp
 
 Solar ERP — powered by APPNEURAL
